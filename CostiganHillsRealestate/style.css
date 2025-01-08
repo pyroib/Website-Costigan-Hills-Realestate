@@ -1,0 +1,16 @@
+body		{text-align:center; margin:0px; font-family:Verdana,Arial,Helvetica,sans-serif; }
+.line img			{display: block;}
+a:hover		{color:green; background-color:#CCCC99;}
+a:visited		{color:black;}
+a:active		{color:#CC9933;}
+a:link		{color:black;}
+.main		{background-color:#CCCC99; margin:0px; padding: 40px; font-size:12px;}
+.text		{font-family:Verdana,Arial,Helvetica,sans-serif; font-size:12px;}
+.menu		{font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px; color:gray; text-align:center;}
+.zero		{cellpadding:0px; cellspacing:0px;}
+.copyright		{background-color:white; cellpadding:0px; cellspacing:2px; text-align:center; font-family:Verdana,Arial,Helvetica,sans-serif; font-size:12px;}}
+.header		{background-color:#CCCC99; color:white;}
+.tenantheader	{font-size:12px; text-decoration:underline;}
+.stafftitle		{font-size:18px; text-decoration:underline; text-align:center;}
+.staffname		{font-size:12px; text-align:center;}
+.center			{text-align:center;}
