@@ -1,10 +1,10 @@
-#  iblott.com WordPress Themes
+#  www.hillsrealestate.com.au HTML Website
 
-A wordpress theme for iblott.com
+A wordpress theme for www.hillsrealestate.com.au
 
 ## Getting Started
 
-This is a wordpress theme. Install the iblott_V4.0 folder in your wordpress /wp-content/themes/ folder
+This is a complete HTML website. 
 
 ### Prerequisites
 
