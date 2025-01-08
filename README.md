@@ -1,22 +1,18 @@
-#  www.hillsrealestate.com.au HTML Website
+# www.hillsrealestate.com.au HTML Website
 
 A wordpress theme for www.hillsrealestate.com.au
 
 ## Getting Started
 
-This is a complete HTML website. 
+This is a complete HTML website.
 
 ### Prerequisites
 
-PHP, MySQL
+HTML
 
 ## Built With
 
-* [PHP](https://www.php.net)
-* [MySQL](https://www.mysql.com)
-* [JQuery](https://jquery.com)
-* [CSS]
-* [WAMP](https://www.mysql.com)
+- [HTML]
 
 ## Contributing
 
@@ -24,12 +20,12 @@ Project no longer taking contributions
 
 ## Authors
 
-* **Ian Blott** - [iblott.com](http://iblott.com)
+- **Ian Blott** - [blott.com.au](http://blott.com.au)
 
 ## License
 
-Copyright (C) 2018-2019 blott - All Rights Reserved
+Copyright (C) 2018 blott.com.au - All Rights Reserved
 
-Unauthorized copying of this file, via any medium is strictly prohibited 
+Unauthorized copying of this file, via any medium is strictly prohibited
 
 Proprietary and confidential
